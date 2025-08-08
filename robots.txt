@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://condimentcove.tech/sitemap.xml
